@@ -1,0 +1,4 @@
+Fathima,Y,20
+Ravi,N,18
+Aisha,Y,16
+Kamal,N,21
